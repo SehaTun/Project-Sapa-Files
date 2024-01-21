@@ -8,4 +8,5 @@ User guide
 4- On the screen that opens, we give a name to the txt file in the file saving section and place it in the My Documents>Matlab folder.
 5-We run the code from Matlab.
 
-*This code diagram is designed for the loaded circuit.
+*This code diagram is designed for the loaded circuit file with (.asc) .
+
